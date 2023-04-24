@@ -2,7 +2,8 @@
 title:
 subtitle:
 widget: blank
-headless: true
+# change true to display
+headless: false
 weight: 40
 design:
   columns: '1'
