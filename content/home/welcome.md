@@ -10,7 +10,7 @@ cta:
   url: 'https://wowchemy.com'
   label: 招生简章
   icon_pack: fas
-  icon: download
+#  icon: download
 
 design:
   background:
