@@ -4,7 +4,7 @@ subtitle:
 widget: blank
 # change true to display
 # Activate this widget? true/false
-active: false
+active: true
 headless: true
 weight:30
 design:
