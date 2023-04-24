@@ -1,6 +1,4 @@
 ---
-title:
-subtitle:
 widget: blank
 # change true to display
 # Activate this widget? true/false
