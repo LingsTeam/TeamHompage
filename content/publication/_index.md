@@ -1,7 +1,7 @@
 ---
 title: 团队论文检索
 
-layout: publication
+type: landing
 # Listing view
 view: citation
 
