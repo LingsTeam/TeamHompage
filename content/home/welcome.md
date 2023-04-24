@@ -7,7 +7,7 @@ title: 暨南大学对称密码小组
 #hero_media: welcome.jpg
 
 cta:
-  url: 'https://wowchemy.com'
+  url: 'https://lingsteam.netlify.app/post/%E6%8B%9B%E7%94%9F%E6%84%8F%E5%90%91/'
   label: 招生简章
   icon_pack: fas
 #  icon: download
