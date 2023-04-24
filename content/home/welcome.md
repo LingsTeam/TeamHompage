@@ -4,11 +4,24 @@ widget_id: welcome
 headless: true
 weight: 10
 title: 暨南大学对称密码小组
-hero_media: welcome.jpg
+#hero_media: welcome.jpg
 design:
-  columns: "1"
-  css_style: null
-  css_class: null
+  background:
+  # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+    image:
+      # Name of image in `assets/media/`.
+      filename: all.jpg
+      # Apply image filters?
+      filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+        brightness: 0.5
+      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+      size: cover
+      # Image focal point. Options include `left`, `center` (default), or `right`.
+      position: center
+      # Use a fun parallax-like fixed background effect on desktop? true/false
+      parallax: true
 ---
 <br>
 <b>欢迎访问暨南大学对称密码小组主页！</b>
