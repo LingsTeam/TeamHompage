@@ -21,7 +21,7 @@ design:
 
 design:
   background:
-    image: all.jpg
+    image: jnu_logo.svg
     image_darken: 0.5
     image_parallax: false
     image_position: center
@@ -29,8 +29,6 @@ design:
     text_color_light: true
   spacing:
     padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
 ---
 <br>
 
