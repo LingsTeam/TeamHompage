@@ -12,4 +12,4 @@ subtitle = ""
 
 
 +++
-{{% cta cta_link="./publication/" cta_text="论文检索 →" %}}
+{{% cta cta_link="../publication/" cta_text="论文检索 →" %}}
