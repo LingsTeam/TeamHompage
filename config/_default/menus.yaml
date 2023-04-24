@@ -8,7 +8,7 @@ main:
     url: people
     weight: 10
   - name: 论文
-    url: publication
+    url: research
     weight: 20
   - name: 招生
     url: post/%E6%8B%9B%E7%94%9F%E6%84%8F%E5%90%91/
