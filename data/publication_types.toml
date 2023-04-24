@@ -9,5 +9,7 @@ types = [ "pub_uncat",
           "pub_book_section",
           "pub_thesis",
           "pub_patent",
-          "pub_workshop"
+          "pub_workshop",
+          "pub_teach",
+          "pub_stu"
         ]
