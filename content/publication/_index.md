@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 团队论文检索
 
 # Listing view
 view: citation
