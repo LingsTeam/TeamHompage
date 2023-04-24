@@ -19,7 +19,18 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     text_color_light: true
 
-
+design:
+  background:
+    image: all.jpg
+    image_darken: 0.5
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ['20px', '0', '20px', '0']
+advanced:
+  css_class: fullscreen
 ---
 <br>
 
