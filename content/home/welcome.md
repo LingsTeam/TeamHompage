@@ -4,7 +4,7 @@ widget_id: welcome
 headless: true
 weight: 10
 title: 暨南大学对称密码小组
-hero_media: logo_wt.png
+hero_media: logo_wt.svg
 
 cta:
   url: './people/'
@@ -12,6 +12,9 @@ cta:
   icon_pack: fas
 #  icon: download
 
+cta_alt:
+  label: 招生信息
+  url: ./post/%E6%8B%9B%E7%94%9F%E6%84%8F%E5%90%91/
 
 design:
   background:
