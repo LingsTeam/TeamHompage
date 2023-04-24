@@ -1,14 +1,7 @@
 ---
 title: 招生意向
 date: 2023-04-24T08:26:37.146Z
-summary: >-
-  <!--StartFragment-->
-
-
-  [暨南大学对称密码小组招生中！点击阅读详情！](https://lingshomepage.netlify.app/post/%E6%8B%9B%E7%94%9F%E6%84%8F%E5%90%91/)
-
-
-  <!--EndFragment-->
+summary: 暨南大学对称密码小组招生中！点击阅读详情！
 draft: false
 featured: true
 image:
