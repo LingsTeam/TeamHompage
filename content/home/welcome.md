@@ -21,7 +21,7 @@ design:
 
 design:
   background:
-    image: jnu_logo.svg
+    image: all.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
