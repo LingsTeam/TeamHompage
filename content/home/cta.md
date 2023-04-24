@@ -3,8 +3,8 @@ title:
 subtitle:
 widget: blank
 # change true to display
-headless: false
-weight: 40
+headless: true
+weight:
 design:
   columns: '1'
 ---
