@@ -160,8 +160,8 @@
 - id: pub_report
   translation: Report
 
-- id: pub_booe
-  translation: Booe
+- id: pub_book
+  translation: Book
 
 - id: pub_book_section
   translation: Book section
