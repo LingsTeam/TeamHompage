@@ -1,6 +1,7 @@
 ---
 title: 团队论文检索
 
+layout: publication
 # Listing view
 view: citation
 
