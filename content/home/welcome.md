@@ -4,24 +4,18 @@ widget_id: welcome
 headless: true
 weight: 10
 title: 暨南大学对称密码小组
-#hero_media: welcome.jpg
+hero_media: logo_wt.svg
 
 cta:
-  url: 'https://lingsteam.netlify.app/post/%E6%8B%9B%E7%94%9F%E6%84%8F%E5%90%91/'
-  label: 招生简章
+  url: './people/'
+  label: 认识团队
   icon_pack: fas
 #  icon: download
 
-design:
-  background:
-    # Choose a color such as from https://html-color-codes.info
-    color: 'navy'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
-    text_color_light: true
 
 design:
   background:
-    image: jnu_logo.png
+    image: all.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
