@@ -4,7 +4,7 @@ widget_id: welcome
 headless: true
 weight: 10
 title: 暨南大学对称密码小组
-hero_media: logo.png
+hero_media: logo_wt.png
 
 cta:
   url: './people/'
