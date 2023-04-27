@@ -15,12 +15,6 @@ social:
     icon_pack: ai
     link: https://dblp.org/pid/32/381-1.html
     label: dblp
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://sites.google.com/view/ling-song/home
-  - icon: cv
-    icon_pack: ai
-    link: https://github.com/gcushen
 organizations:
   - name: Jinan University
     url: https://xxxy.jnu.edu.cn/main.htm
