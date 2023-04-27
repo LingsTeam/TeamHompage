@@ -1,13 +1,11 @@
 ---
-title: Ling Song
-role: Researcher
-bio: I am dedicated to the analysis and design of symmetric encryption, and we
-  welcome researchers or students interested in this area to join our team.
+title: 暨南大学对称密码小组
+role: Group
+bio: 暨南大学对称密码小组
 interests:
-  - Cryptanalysis
-  - Block Ciphers
-  - Authenticated Encryption Schemes
-  - Hash Functions
+  - 密码分析
+  - 对称密码算法
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,10 +37,13 @@ education:
       year: 2016
 email: ""
 superuser: true
-user_groups:
-  - Researchers
+user_groups: []
 highlight_name: false
 ---
-Symmetric encryption is a cryptographic system for quickly encrypting, decrypting, or compressing data, and it is a class of extremely important basic cryptographic algorithms. 
+欢迎来到 暨南大学对称密码小组 的主页
 
-I am currently a Researcher at the [College of Cyber Security, Jinan University](https://xxxy.jnu.edu.cn/main.htm), (Guangzhou, China). Our team is dedicated to the analysis and design of symmetric encryption, and we welcome researchers or students interested in this area to join our team.
+本小组是 暨南大学网络空间学院宋凌教授 带领的一个专注对称密码领域的研究小组。本小组的研究方向包括但不限于以下几部分：
+
+1. 对重要的对称加密算法的安全性分析；
+2. 探究重要的密码分析方法；
+3. 设计与分析新颖的对称密码方案。
