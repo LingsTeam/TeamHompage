@@ -2,11 +2,6 @@
 title: 暨南大学对称密码小组
 role: Group
 bio: 暨南大学对称密码小组
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:songlingcs@163.com
-    label: E-Mail
 organizations:
   - name: Jinan University
     url: https://xxxy.jnu.edu.cn/main.htm
@@ -14,7 +9,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-欢迎来到 暨南大学对称密码小组 的主页
+欢迎来到暨南大学对称密码小组主页
 
 本小组是 暨南大学网络空间学院宋凌教授 带领的一个专注对称密码领域的研究小组。本小组的研究方向包括但不限于以下几部分：
 
