@@ -25,16 +25,7 @@ organizations:
   - name: Jinan University
     url: https://xxxy.jnu.edu.cn/main.htm
 education:
-  courses:
-    - course: Researcher
-      institution: Jinan University, Guangzhou, China
-      year: 2020
-    - course: " Associate Researcher"
-      institution: Institute of Information Engineering, CAS, China
-      year: 2018
-    - course: Research Scientist
-      institution: Cryptanalysis Taskforce, Nanyang Technological University, Singapore
-      year: 2016
+  courses: []
 email: ""
 superuser: true
 user_groups: []
