@@ -1,10 +1,10 @@
 ---
-title: 暨南大学对称密码小组
-role: Group
-bio: 暨南大学对称密码小组
-organizations:
-  - name: Jinan University
-    url: https://xxxy.jnu.edu.cn/main.htm
+#title: 暨南大学对称密码小组
+#role: Group
+#bio: 暨南大学对称密码小组
+#organizations:
+#  - name: Jinan University
+#    url: https://xxxy.jnu.edu.cn/main.htm
 superuser: true
 user_groups: []
 highlight_name: true
