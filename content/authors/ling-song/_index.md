@@ -1,7 +1,7 @@
 ---
-title: Ling Song
+title: 宋凌
 avatar_filename: avatar
-bio: 宋凌，暨南大学网络空间安全学院教授，专注于对称密码领域
+bio: Ling Song，暨南大学网络空间安全学院教授，专注于对称密码领域
 interests:
   - 对称密码
   - 密码分析
