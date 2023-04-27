@@ -2,28 +2,17 @@
 title: 暨南大学对称密码小组
 role: Group
 bio: 暨南大学对称密码小组
-interests:
-  - 密码分析
-  - 对称密码算法
-  - ""
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:songlingcs@163.com
     label: E-Mail
-  - icon: dblp
-    icon_pack: ai
-    link: https://dblp.org/pid/32/381-1.html
-    label: dblp
 organizations:
   - name: Jinan University
     url: https://xxxy.jnu.edu.cn/main.htm
-education:
-  courses: []
-email: ""
 superuser: true
 user_groups: []
-highlight_name: false
+highlight_name: true
 ---
 欢迎来到 暨南大学对称密码小组 的主页
 
