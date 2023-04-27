@@ -2,6 +2,7 @@
 widget: hero
 widget_id: welcome
 headless: true
+active: false
 weight: 10
 title: 暨南大学对称密码小组
 hero_media: logo_wt.svg
